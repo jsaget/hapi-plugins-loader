@@ -1,0 +1,19 @@
+{
+  "name": "hapi-plugins-loader",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsaget/hapi-plugins-loader.git"
+  },
+  "author": "jsaget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsaget/hapi-plugins-loader/issues"
+  },
+  "homepage": "https://github.com/jsaget/hapi-plugins-loader#readme"
+}
